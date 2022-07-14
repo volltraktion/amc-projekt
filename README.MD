@@ -6,4 +6,4 @@ In der Zeile **35** kann der Abstand der Ultraschallsensoren definiert werden.
 
 Die Schaltung muss wie folgt installiert werden.
 
-[<img alt="alt_text" width="40px" src="img/Schaltplan schematisch.png" />]
+<img alt="alt_text" width="100%" src="img/Schaltplan schematisch.png" />
