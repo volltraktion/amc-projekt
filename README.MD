@@ -1,1 +1,5 @@
+# Projekt aus dem Modul AMC an der THM
 
+Dieses Programm ermöglicht die Nutzung des Arduino mit zwei Ultraschallsensoren und einem LCD Screen.
+
+In der Zeile **35** kann der Abstand der Ultraschallsensoren definiert werden.
