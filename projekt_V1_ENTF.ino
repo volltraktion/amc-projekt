@@ -1,4 +1,3 @@
-
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(8, 9, 10, 11, 12, 13); // LCD-Anschluesse (Ansachluss LCD - Pin Ardunino): RS-8;E-9;D4-10;D5-11;D6-12;D7-13
 
